@@ -138,4 +138,4 @@ with open(csvpath, 'w', newline='') as csvfile:
         print("row counter", counter)
         print(row)
 
-    
+   #Workcited: UCB-Coding-Bootcamp (2021-2022).  Module 1. UC Berkeley Fintech Extension.  https://courses.bootcampspot.com/
